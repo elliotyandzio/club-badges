@@ -1,0 +1,14 @@
+2022/06/09-16:35:41.303 903 Reusing MANIFEST /Users/Yand83568/Documents/badges-example/tmp/Default/Session Storage/MANIFEST-000001
+2022/06/09-16:35:41.307 903 Recovering log #139
+2022/06/09-16:35:41.308 903 Level-0 table #142: started
+2022/06/09-16:35:41.358 903 Level-0 table #142: 18940 bytes OK
+2022/06/09-16:35:41.419 903 Delete type=0 #139
+2022/06/09-16:35:41.420 2407 Compacting 4@0 + 1@1 files
+2022/06/09-16:35:41.454 2407 Generated table #144@0: 648 keys, 356201 bytes
+2022/06/09-16:35:41.454 2407 Compacted 4@0 + 1@1 files => 356201 bytes
+2022/06/09-16:35:41.498 2407 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/06/09-16:35:41.500 2407 Delete type=2 #140
+2022/06/09-16:35:41.500 2407 Delete type=2 #142
+2022/06/09-16:35:41.500 2407 Delete type=2 #136
+2022/06/09-16:35:41.500 2407 Delete type=2 #131
+2022/06/09-16:35:41.501 2407 Delete type=2 #133
